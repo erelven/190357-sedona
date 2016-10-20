@@ -1,8 +1,12 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Александра Тимофеева](https://up.htmlacademy.ru/htmlcss/15/user/190357).
+<<<<<<< HEAD
 * Наставник:  [Денис Верхотуров](https://htmlacademy.ru/profile/id56756).
 
+=======
+* Наставник: [Денис Верхотуров](https://htmlacademy.ru/profile/id56756).
+>>>>>>> origin/master
 
 ---
 
